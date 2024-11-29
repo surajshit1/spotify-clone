@@ -1,0 +1,3 @@
+// 1. we can write all the routes in index.js but for clean experience we create seperate routes file for all the routes for cleaner experience and safety purpose
+
+// 2. first of all we create the index.js file then we create the routes file and create the user.route.js
